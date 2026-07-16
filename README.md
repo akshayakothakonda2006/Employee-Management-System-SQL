@@ -45,3 +45,7 @@ This project is an Employee Management System developed using SQL Server. It dem
 
 ## Author
 Akshaya Kothakonda
+
+## Project Screenshot
+
+![Employee Management System](02_Tables_List.png)
